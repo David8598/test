@@ -1,9 +1,113 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Страница — 1" id="kPMn4lNEjhNYaapRuKeL">
-    <mxGraphModel>
+    <mxGraphModel dx="2505" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.3;exitY=0.925;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-1" target="FoV2lFAEeXb5o1uqjWuR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-1" target="FoV2lFAEeXb5o1uqjWuR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-1" target="FoV2lFAEeXb5o1uqjWuR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-1" value="телеграм бот" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-2" target="FoV2lFAEeXb5o1uqjWuR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-2" target="FoV2lFAEeXb5o1uqjWuR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-2" target="FoV2lFAEeXb5o1uqjWuR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-2" target="FoV2lFAEeXb5o1uqjWuR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-2" value="admin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-4" value="team lead" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-6" value="farmer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-8" value="смотреть ститистику всех юзеров" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-11" value="историю запоусков фарма" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-15" target="FoV2lFAEeXb5o1uqjWuR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-15" value="запускать фарм" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-17" value="выдавать роли" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-19" target="FoV2lFAEeXb5o1uqjWuR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-19" value="запрос данных:&lt;br&gt;тег профилей ( можно указать несколько через запятую)&lt;br&gt;&lt;br&gt;какой день фармим&lt;br&gt;&lt;br&gt;почты&amp;nbsp;&amp;nbsp;( можно указать несколько через запятую)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="430" width="176" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-22" target="FoV2lFAEeXb5o1uqjWuR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-22" value="запуск аккаунта" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-24" target="FoV2lFAEeXb5o1uqjWuR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-24" value="регистрация на сайтах через гугл" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-26" target="FoV2lFAEeXb5o1uqjWuR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-26" value="использование гугл таблитцы" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-28" target="FoV2lFAEeXb5o1uqjWuR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-28" value="использование гугл документа" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-32" target="FoV2lFAEeXb5o1uqjWuR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-32" value="использование гугл календаря" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-34" value="отправить сообщение на почту следующего аккаунта" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoV2lFAEeXb5o1uqjWuR-38" target="FoV2lFAEeXb5o1uqjWuR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-38" value="проход по сайтам с куки ( не нужно регаться но принять плашку с куки)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="840" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-41" value="&lt;div&gt;сайты на который можно регаться через гугл:&lt;/div&gt;&lt;div&gt;morele.net&lt;/div&gt;&lt;div&gt;onet.pl&lt;/div&gt;&lt;div&gt;wp.pl&lt;/div&gt;&lt;div&gt;tvn24.pl&lt;/div&gt;&lt;div&gt;wyborcza.pl&lt;/div&gt;&lt;div&gt;allegro.pl&lt;/div&gt;&lt;div&gt;moliera2.com&lt;/div&gt;&lt;div&gt;sportowefakty.wp.pl&lt;/div&gt;&lt;div&gt;crazygames.com&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-683" y="610" width="270" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-42" value="&lt;div&gt;день1)&lt;/div&gt;&lt;div&gt;youtube - просто подписаться на 3-5 каналов&lt;/div&gt;&lt;div&gt;The New York Times - подписаться на рассылку&lt;/div&gt;&lt;div&gt;The guardian&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- подписаться на рассылку&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Canva - логин через гугл&lt;/div&gt;&lt;div&gt;Spotify&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- логин через гугл&lt;/span&gt;&lt;/div&gt;&lt;div&gt;pinterst&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- логин через гугл&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="950" width="250" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="FoV2lFAEeXb5o1uqjWuR-43" value="&lt;div&gt;день 2 - 3&amp;nbsp;&lt;/div&gt;&lt;div&gt;- регестрируемся на 1 - 2 сервисах&amp;nbsp;&lt;/div&gt;&lt;div&gt;- имитируем переписку в с другими своими аккаунтами, делаем список всех почт со своих акков и отправляем сообщение доброго характера&amp;nbsp;&lt;/div&gt;&lt;div&gt;- гуляем по магазинам польским вообщем реальность юзера&amp;nbsp;&lt;/div&gt;&lt;div&gt;- открываем гугл докс загружаем туда файл текст генерим на гугл док имена в текст не вписываем&amp;nbsp;&lt;/div&gt;&lt;div&gt;- открываем гугл таблицу и что-то в ней тыкаем 1-2 таблицы&amp;nbsp;&lt;/div&gt;&lt;div&gt;- открываем гугл календарь и делаем росписание со звонками и мероприятиями на 2-5 дней&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="1260" width="390" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
